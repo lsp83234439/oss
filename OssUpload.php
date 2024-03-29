@@ -47,7 +47,7 @@ class OssUpload
 
             return [
                 'path' => $object,
-                'url' => 'https://cdncache.mapleleaf.cn/' . $object
+                'url' => 'https://xxx' . $object
             ];
         } else {
             return '';
